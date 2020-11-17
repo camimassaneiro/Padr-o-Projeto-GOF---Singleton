@@ -1,4 +1,4 @@
-# Padrao de Projeto GOF - Singleton
+# Padrao de Projeto GOF - Singleton :card_file_box:
 ## Linguagem Java
 
 Intenção: Garantir que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
